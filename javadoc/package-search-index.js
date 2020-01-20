@@ -1,1 +1,1 @@
-packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"}]
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"com.kroy.classes"},{"l":"com.kroy.game"},{"l":"com.kroy.modules"},{"l":"com.kroy.pathfinding"},{"l":"com.kroy.scenes"},{"l":"com.kroy.screens"},{"l":"com.kroy.states"}]

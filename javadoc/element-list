@@ -1,1 +1,7 @@
-unnamed package
+com.kroy.classes
+com.kroy.game
+com.kroy.modules
+com.kroy.pathfinding
+com.kroy.scenes
+com.kroy.screens
+com.kroy.states
